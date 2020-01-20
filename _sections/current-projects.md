@@ -1,7 +1,7 @@
 ---
 title: Research Projects
 icon: fa-check
-order: 3
+order: 4
 ---
 ### Computational Syntax and Semantics
 
@@ -58,7 +58,38 @@ order: 3
       <th align="center">Analysis of Tobacco related Tweets</th>
     </tr>
     <tr>
+      <td>There are multiple known linguistic hypotheses about code
+      mixing and code switching, which pertain to cognitive, syntactic
+      and semantic understanding of multilingual manner of language use.
+      Using the treasure trove of code mixed data on social media,
+      language models can be implemented to test these hypotheses and
+      how well they model actual multilingual speech. </td>
+      <td>Public Health Mentions (PHM) is a vital way of understanding
+      public perception about facets of health, awareness and causes for
+      new outbreaks (e.g. the Juul incident). One main topic is tobacco
+      related tweets, where we aim to look into the types of tweets
+      released about tobacco, the style of the viral tweets and the
+      relative number of one over the other. We aim to use this to
+      make better campaigns for social good. </td>
+    </tr>
+    <tr>
       <th>Semantic Importance of Emojis</th>
       <th>Multimodal Classification of Sexism</th>
+    </tr>
+    <tr>
+      <td>Do emojis contain any semantic information? One of the easiest
+      ways of defining the semantic importance of emojis is through the
+      use of sentence similarity measures, using a method of accounting
+      for emoji representation. In working with a team, I aim to analyze
+      the nature of emojis in social media text viz a viz their semantic
+      importance and meaning associated with them.</td>
+      <td>One of the most profound impacts of social media has been how
+      people express their views, some more toxic than others. One of
+      the prominent fallouts of this is sexist narratives in social
+      media. I believe that images add the necessary context to suggest
+      whether a post, comment, tweet etc. is sexist or not, and it can
+      also help in knowing the nature of posts, comments and/or tweets
+      which are most susceptible to be/contain sexist undertones or
+      overtones.</td>
     </tr>
 </table>
