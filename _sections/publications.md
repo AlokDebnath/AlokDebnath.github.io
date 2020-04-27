@@ -11,7 +11,11 @@ order: 3
     </tr>
     <tr>
     <td>Prabhu, Suhan, Ujwal Narayan, <b>Alok Debnath</b>, Sumukh S, and Manish Shrivastava. "Detection and Annotation of Events in Kannada". In the Sixteenth Workshop on Interoperable Semantic Annotation (ISA-16), p. 14. 2020.</td>
+    </tr>
+    <tr>
     <td>Goel, Pranav, Suhan Prabhu, <b>Alok Debnath</b>, Priyank Modi, and Manish Shrivastava. "Hindi TimeBank: An ISO-TimeML Annotated Reference Corpus". In the Sixteenth Workshop on Interoperable Semantic Annotation (ISA-16), p. 14. 2020.</td>
+    </tr>
+    <tr>
     <td><b>Debnath, Alok</b>, Nikhil Pinnaparaju, Manish Shrivastava, Vasudeva Verma, and Isabelle Augenstein. "Semantic Textual Similarity for Sentences with Emojis". In The 8th International Workshop on Natural Language Processing for Social Media at The Web Conference 2020</td>
     </tr>
     <tr>
