@@ -12,7 +12,7 @@ order: 4
     </tr>
     <tr>
       <td> I am working on a computational algebraic representation of
-      HIndi syntax using pregroup calculus. This representation has
+      Hindi syntax using pregroup calculus. This representation has
       been used for work in compositional distributional semantics, and
       it also lends insight into the computational nature of Hindi
       syntax including restricted word order alternation and multiword
@@ -23,7 +23,19 @@ order: 4
       metric space associated with language, I, alongwith a group, attempt to use various
       mathematical objects as the basis of a more interpretable lexical
       distributionl semantics. </td>
-    </tr>
+  </tr>
+  <tr>
+    <th>Computational Analysis of Misunderstanding</th>
+  </tr>
+  <tr>
+    <td>Ambiguity is one of the characteristics of natural language.
+    However, in instructional texts, ambiguity, along with vagueness
+    and other forms of misunderstanding can pose a problem in the
+    execution of the instructions. I work with Dr. Michael Roth's
+    group at the University of Stuttgart in order to analyze and
+    computationally represent misunderstanding in a manner that can
+    help identify and resolve it.</td>
+  </tr>
 </table>
 
 ### Temporal and Event Information Analysis
@@ -54,39 +66,13 @@ order: 4
 
 <table border="0">
     <tr>
-      <th align="center">Code-Mixed Language Hypotheses</th>
-      <th align="center">Analysis of Tobacco related Tweets</th>
+      <th>Sexism on Social Media</th>
     </tr>
     <tr>
-      <td>There are multiple known linguistic hypotheses about code
-      mixing and code switching, which pertain to cognitive, syntactic
-      and semantic understanding of multilingual manner of language use.
-      Using the treasure trove of code mixed data on social media,
-      language models can be implemented to test these hypotheses and
-      how well they model actual multilingual speech. </td>
-      <td>Public Health Mentions (PHM) is a vital way of understanding
-      public perception about facets of health, awareness and causes for
-      new outbreaks (e.g. the Juul incident). One main topic is tobacco
-      related tweets, where we aim to look into the types of tweets
-      released about tobacco, the style of the viral tweets and the
-      relative number of one over the other. We aim to use this to
-      make better campaigns for social good. </td>
-    </tr>
-    <tr>
-      <th>Semantic Importance of Emojis</th>
-      <th>Multimodal Classification of Sexism</th>
-    </tr>
-    <tr>
-      <td>Do emojis contain any semantic information? One of the easiest
-      ways of defining the semantic importance of emojis is through the
-      use of sentence similarity measures, using a method of accounting
-      for emoji representation. In working with a team, I aim to analyze
-      the nature of emojis in social media text viz a viz their semantic
-      importance and meaning associated with them.</td>
       <td>One of the most profound impacts of social media has been how
       people express their views, some more toxic than others. One of
       the prominent fallouts of this is sexist narratives in social
-      media. I believe that images add the necessary context to suggest
+      media. I believe that there is extra-linguistic information, which adds the necessary context to suggest
       whether a post, comment, tweet etc. is sexist or not, and it can
       also help in knowing the nature of posts, comments and/or tweets
       which are most susceptible to be/contain sexist undertones or

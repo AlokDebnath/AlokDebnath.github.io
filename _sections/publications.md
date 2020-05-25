@@ -10,7 +10,13 @@ order: 3
       <th align="center">2020</th>
     </tr>
     <tr>
-      <td>Prabhu, Suhan, Ujwal Narayan, <b>Alok Debnath</b>, Sumukh S, and Manish Shrivastava. "Detection and Annotation of Events in Kannada". In the Sixteenth Workshop on Interoperable Semantic Annotation (ISA-16), p. 14. 2020.</td>
+      <td>Bhat, Siddharth, <b>Alok Debnath</b>, Souvik Bannerjee and
+      Manish Shrivastava. "Word Embeddings as Tuples of Feature
+      Probabilities". In the 5th Workshop on Representation Learning for
+      NLP (RepL4NLP-2020) at ACL 2020.</td>
+    </tr>
+    <tr>
+      <td>Prabhu, Suhan, Ujwal Narayan, <b>Alok Debnath</b>, Sumukh S, and Manish Shrivastava. "Detection and Annotation of Events in Kannada". In the Sixteenth Workshop on Interoperable Semantic Annotation (ISA-16), p. 62. 2020.</td>
     </tr>
     <tr>
       <td>Goel, Pranav, Suhan Prabhu, <b>Alok Debnath</b>, Priyank Modi, and Manish Shrivastava. "Hindi TimeBank: An ISO-TimeML Annotated Reference Corpus". In the Sixteenth Workshop on Interoperable Semantic Annotation (ISA-16), p. 14. 2020.</td>
