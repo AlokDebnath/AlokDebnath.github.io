@@ -25,7 +25,8 @@ order: 4
       distributionl semantics. </td>
   </tr>
   <tr>
-    <th>Computational Analysis of Misunderstanding</th>
+  <th>Computational Analysis of Misunderstanding</th>
+  <th>Probing Attention-Based Code-Mixed Data</th>
   </tr>
   <tr>
     <td>Ambiguity is one of the characteristics of natural language.
@@ -35,6 +36,10 @@ order: 4
     group at the University of Stuttgart in order to analyze and
     computationally represent misunderstanding in a manner that can
     help identify and resolve it.</td>
+    <td>Probing is one of the most useful mechanisms to understand
+    attention. However, code-mixed language modeling aims to identify
+    information in terms of switch points and dependency
+    information.</td>
   </tr>
 </table>
 
@@ -66,16 +71,24 @@ order: 4
 
 <table border="0">
     <tr>
-      <th>Sexism on Social Media</th>
+    <th>Sexism on Social Media</th>
+    <th>Aspect Based Sentiment Analysis in Hindi</th>
     </tr>
     <tr>
       <td>One of the most profound impacts of social media has been how
       people express their views, some more toxic than others. One of
       the prominent fallouts of this is sexist narratives in social
-      media. I believe that there is extra-linguistic information, which adds the necessary context to suggest
+      media. I believe that there is extra-linguistic information,
+      which adds the necessary context to suggest
       whether a post, comment, tweet etc. is sexist or not, and it can
       also help in knowing the nature of posts, comments and/or tweets
       which are most susceptible to be/contain sexist undertones or
       overtones.</td>
-    </tr>
+      <td>Aspect based sentiment analysis refers to the extraction of
+      sentiment information from aspects pertinent to the topic of a
+      given tweet, post or review. There has been very little work on
+      developing this topic in Hindi. We aim to develop a gold standard
+      data, and in the process, work on fine-tuning multilingual BERT
+      for Seq2Seq tasks</td>
+      </tr>
 </table>

@@ -5,23 +5,56 @@ order: 4
 ---
 <table border="0">
   <tr>
-      <th align="center">2020</th>
+  <th align="center">2020</th>
   </tr>
+
   <tr>
-      <td>(Accepted) Research Assistant for Project Provenance at ADAPT
-      Research Center, Trinity College Dublin, under the supervision of
-      Prof. Owen Conlan.</td>
+  <td>(Accepted) Research Assistant for Project Provenance at ADAPT
+  Research Center, Trinity College Dublin, under the supervision of
+  Prof. Owen Conlan.</td>
   </tr>
+
   <tr>
-      <td>(Currently) Visting Research Intren for the Computational Misunderstanding
-      at IMS, University of Stuttgart, under the supervision of Dr.
-      Michael Roth.</td>
+  <td>(Currently) Research Assistant for Language Technologies Research
+  Center at International Institute of Information Technology, Hyderabad, under
+  the supervision of Dr. Manish Shrivastava.</td>
   </tr>
+
   <tr>
-      <td>Language Consultant at Navana Tech Private Limited: Working on
-      low resource ASR and KWS systems.</td>
+  <td>(Currently) Visting Research Intren for the Computational Misunderstanding
+  at IMS, University of Stuttgart, under the supervision of Dr.
+  Michael Roth.</td>
   </tr>
+
   <tr>
-      <td>Teaching Assistant in Introduction to NLP</td>
+  <td>Linguistics Consultant at Navana Tech Private Limited, Bengaluru</td>
+  </tr>
+
+  <tr>
+  <td>Teaching Assistant for Introduction to Natural Language Processing, under Dr.
+  Manish Shrivastava, International Institute of Information
+  Technology, Hyderabad</td>
+  </tr>
+
+  <tr>
+  <th align="center">2019</th>
+  </tr>
+
+  <tr>
+  <td>Teaching Assistant for Natural Language Processing, under Dr.
+  Manish Shrivastava, International Institute of Information Technolgy,
+  Hyderabad</td>
+  </tr>
+
+  <tr>
+  <td>Teaching Assistant for Computational Linguistics, under Prof.
+  Dipti Misra Sharma, International Institute of Information Technology,
+  Hyderabad</td>
+  </tr>
+
+  <tr>
+  <td>Natural Language Processing Intern, Navana Tech Private Limited,
+  Bengaluru</td>
   </tr>
 </table>
+
