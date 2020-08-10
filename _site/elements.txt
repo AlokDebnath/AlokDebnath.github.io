@@ -6,7 +6,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 Jekyll integration by Chris Bobbe | chrisbobbe.github.io
 -->
 <html><head><!-- Robots -->
-  <meta name="robots" content="index, follow" /><link rel="canonical" href="http://localhost:4000/2018/01/12/elements.html" /><!-- Title, description, author --><title>Elements Reference | Alok Debnath - Where does Language meet Computation?</title>
+  <meta name="robots" content="index, follow" /><link rel="canonical" href="http://localhost:4000/elements.txt" /><!-- Title, description, author --><title>Elements Reference | Alok Debnath - Where does Language meet Computation?</title>
   <meta name="description" content="This is my homepage and blog, so that I can work " />
   <meta name="author" content="Alok Debnath" />
   
@@ -14,7 +14,7 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
   <meta property="og:title" content="Elements Reference | Alok Debnath - Where does Language meet Computation?" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="http://localhost:4000/assets/images/avatar.jpg" />
-  <meta property="og:url" content="http://localhost:4000/2018/01/12/elements.html" />
+  <meta property="og:url" content="http://localhost:4000/elements.txt" />
   <meta property="og:site_name" content="Alok Debnath" />
   <meta property="og:description" content="This is my homepage and blog, so that I can work " />
   
@@ -64,7 +64,7 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
 	  <div class="container">
 			<header>
 				<h2>Elements Reference</h2>
-				<p>12 January 2018</p>
+				<p></p>
 			</header><!-- Text stuff -->
 <h2>Text</h2>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
