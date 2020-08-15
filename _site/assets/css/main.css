@@ -1192,10 +1192,10 @@ body {
 body {
   background: #fff;
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 19pt;
+  font-size: 10pt;
   font-weight: 300;
   line-height: 1.75em;
-  color: #888; }
+  color: #5a5a5a; }
   body.is-loading * {
     -moz-transition: none !important;
     -webkit-transition: none !important;
@@ -1208,21 +1208,21 @@ body {
 
 input, textarea, select {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 19pt;
+  font-size: 10pt;
   font-weight: 300;
   line-height: 1.75em;
-  color: #888; }
+  color: #5a5a5a; }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  color: #666;
+  color: #333;
   line-height: 1.5em; }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: inherit;
   text-decoration: none; }
   h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-    color: #333; }
+    color: #111; }
 
 h2 {
   font-size: 2em;
@@ -1241,7 +1241,7 @@ footer {
 
 strong, b {
   font-weight: 300;
-  color: #666; }
+  color: #111; }
 
 em, i {
   font-style: italic; }
