@@ -9,12 +9,6 @@ order: 4
   </tr>
 
   <tr>
-  <td>(Accepted) Research Assistant for Project Provenance at ADAPT
-  Research Center, Trinity College Dublin, under the supervision of
-  Prof. Owen Conlan.</td>
-  </tr>
-
-  <tr>
   <td>(Currently) Research Assistant for Language Technologies Research
   Center at International Institute of Information Technology, Hyderabad, under
   the supervision of Dr. Manish Shrivastava.</td>
