@@ -10,10 +10,10 @@ order: 3
       <th align="center">2020</th>
     </tr>
     <tr>
-      <td><b>Debnath, Alok</b> and Manish Shrivastava</td>. "A
+      <td><b>Debnath, Alok</b> and Manish Shrivastava. "A
       Categorial Grammar Perspective of Universal Dependencies". At the
       56th Linguistics Colloquium. To be Published in Linguistik
-      International, Peter Lang. (forthcoming)
+      International, Peter Lang. (forthcoming)</td>
     </tr>
     <tr>
       <td>Bhat, Siddharth, <b>Alok Debnath</b>, Souvik Bannerjee and
