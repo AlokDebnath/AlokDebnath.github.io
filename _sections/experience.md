@@ -15,7 +15,7 @@ order: 4
   </tr>
 
   <tr>
-  <td>(Currently) Visting Research Intren for the Computational Misunderstanding
+  <td>Visting Research Intren for the Computational Misunderstanding
   at IMS, University of Stuttgart, under the supervision of Dr.
   Michael Roth.</td>
   </tr>
